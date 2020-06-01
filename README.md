@@ -1,6 +1,9 @@
 # Driverbot
 Här finns all min kod till drivebot projektet. 
 
+# Planering
+Min prioritet i projektet är att få allt att fungera eftersom jag inte gjort speciellt mycket med hemsidor innan. Jag vill att sidan ska se bra ut och att jag lyckas ändra på något så den ser lite annorlunda ut än originalet.
+
 ## loggbok
 #### 23/3
 Idag jobbade jag den första lektionen på eftermiddagen med bilen. Efter rasten jobbade jag med pythonkompendiet. 

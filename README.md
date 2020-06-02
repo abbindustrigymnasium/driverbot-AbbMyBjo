@@ -1,5 +1,6 @@
 # Driverbot
 Här finns all min kod till drivebot projektet samt planering m.m.
+Driverbot är projektet vi har jobbat med under vårterminen 2020. I projektet byggde vi en bil av lego och delar som vi själva printade i 3D printers. De printade delarna skulle passa i lego samt hålla motor, servo samt servo och motoraxlarna. Vi använde sedan en hemsida för att styra bilen. Det gjorde vi med hjälp av mqtt och arduino till vår mikrokontroller. 
 
 ## Planering
 Min planering finns i filen planering driverbot. Där har jag skrivit grundläggande vad jag ville få ut av projektet. Mer utvecklat ville jag att det skulle utveckla min programmeringsfärdghet en del och jag ville lära mig lite mer om hemsidor. Bilen ville jag skulle bli mycket bättre praktiskt men den fungerar och kan köra så det gör inget.

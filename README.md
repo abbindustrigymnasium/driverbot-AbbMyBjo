@@ -2,7 +2,7 @@
 Här finns all min kod till drivebot projektet. 
 
 # Planering
-Min prioritet i projektet är att få allt att fungera eftersom jag inte gjort speciellt mycket med hemsidor innan. Jag vill att sidan ska se bra ut och att jag lyckas ändra på något så den ser lite annorlunda ut än originalet.
+Min planering finns i filen planering driverbot. Där har jag skrivit grundläggande vad jag ville få ut av projektet. Mer utvecklat ville jag att det skulle utveckla min programmeringsfärdghet en del och jag ville lära mig lite mer om hemsidor. Bilen ville jag skulle bli mycket bättre praktiskt men den fungerar och kan köra så det gör inget.
 
 ## loggbok
 #### 23/3

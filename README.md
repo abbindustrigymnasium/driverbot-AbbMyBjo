@@ -13,3 +13,8 @@ Idag jobbade jag med ellära på förmiddagen. På första lektionen under efter
 
 #### 31/3
 Pythonprojektet hela dagen förutom typ 10 min där jag filmade min bil och försökte ändra i hemsidan. 
+
+## Det jag hade gjort annorlunda.
+
+## Problem jag stötte på
+

@@ -5,16 +5,6 @@ Driverbot är projektet vi har jobbat med under vårterminen 2020. I projektet b
 ## Planering
 Min planering finns i filen planering driverbot. Där har jag skrivit grundläggande vad jag ville få ut av projektet. Mer utvecklat ville jag att det skulle utveckla min programmeringsfärdghet en del och jag ville lära mig lite mer om hemsidor. Bilen ville jag skulle bli mycket bättre praktiskt men den fungerar och kan köra så det gör inget.
 
-## Loggbok
-#### 23/3
-Idag jobbade jag den första lektionen på eftermiddagen med bilen. Efter rasten jobbade jag med pythonkompendiet. 
-
-#### 24/3
-Idag jobbade jag med ellära på förmiddagen. På första lektionen under eftermiddagen jobbade jag med bilen och lyckades få den att köra via hemsidan. Andra lektionen på eftermiddagen jobbade jag med pythonprojektet.
-
-#### 31/3
-Pythonprojektet hela dagen förutom typ 10 min där jag filmade min bil och försökte ändra i hemsidan. 
-
 ## Utvärdering
 ### Det jag hade gjort annorlunda:
 * Om jag hade haft tid för det hade jag utvecklat min hemsida mer och försökt ändra fler saker samt förstå helheten hur allt hänger ihop i all kod på visual studio code. Det finns mycket jag hade velat göra bättre med fler ändringar med något jag skulle kunna gjort annorlunda hade varit att börja tidigare med förändringarna. Då hade jag troligtvis hunnit längre med hemsidan också.
@@ -27,3 +17,13 @@ Pythonprojektet hela dagen förutom typ 10 min där jag filmade min bil och för
 
 ### Hur gick det?
 Jag tycker projektet gick bra med tanke på omsetändigheterna och våra förutsättningar. Trots att vi fick bygga bilen på väldigt kort tid och att jag inte visste något om hemsidor så gick det bra. Jag lärde mig lite mer om hemsidor och mqtt. Det viktigaste är dock att jag tyckte det var hyfsat kul vilket jag inte kan säga om vissa andra projekt.
+
+## Loggbok
+#### 23/3
+Idag jobbade jag den första lektionen på eftermiddagen med bilen. Efter rasten jobbade jag med pythonkompendiet. 
+
+#### 24/3
+Idag jobbade jag med ellära på förmiddagen. På första lektionen under eftermiddagen jobbade jag med bilen och lyckades få den att köra via hemsidan. Andra lektionen på eftermiddagen jobbade jag med pythonprojektet.
+
+#### 31/3
+Pythonprojektet hela dagen förutom typ 10 min där jag filmade min bil och försökte ändra i hemsidan. 
